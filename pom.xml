@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>at.htlklu</groupId>
-    <artifactId>Springboot_AT0203_Customer</artifactId>
+    <artifactId>Springboot_Customer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Springboot_AT0203_Customer</name>
-    <description>Springboot_AT0203_Customer</description>
+    <name>Springboot_Customer</name>
+    <description>Springboot_Customer</description>
     <properties>
         <java.version>8</java.version>
     </properties>
